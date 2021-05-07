@@ -1,4 +1,4 @@
-## 💨 Hello, My Name Is Jamal Mountasser
+## 💨 Hello, My Name Is JimmY
 
 <a href="https://github.com/TJimmY123">
   <img src="https://img.shields.io/github/followers/TJimmY123">
