@@ -16,7 +16,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TJimmY123&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### ☉ My discord:
-[![Discord Banner 4](https://discordapp.com/api/guilds/778956850938642455/widget.png?style=banner4)](https://discord.gg/nzVZByFmWc)
+[![Discord Banner 4](https://discordapp.com/api/guilds/670737267387793415/widget.png?style=banner4)](https://discord.gg/nzVZByFmWc)
 
 ### ● My bot:
-[![Discord Bots]()](https://discordbotlist.com/bots/jimmusic)
+[![Discord Bots](https://imgur.com/gallery/PnanPHO)](https://discordbotlist.com/bots/jimmusic)
