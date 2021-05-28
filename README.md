@@ -19,4 +19,4 @@
 [![Discord Banner 4](https://discordapp.com/api/guilds/670737267387793415/widget.png?style=banner4)](https://discord.gg/44VxwCU3GU)
 
 ### ● My bot:
-[![Discord Bots](https://imgur.com/gallery/PnanPHO)](https://discordbotlist.com/bots/jimmusic)
+[![Discord Bots](https://discordbotlist.com/bots/jimmusic)](https://discordbotlist.com/bots/jimmusic)
