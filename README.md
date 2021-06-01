@@ -7,7 +7,7 @@
    <img src="https://komarev.com/ghpvc/?username=TJimmY123">
 </a>
 
-#### Languages and Tools I can work with:
+#### ☉ Languages and Tools I can work with:
 
 <a><img src="https://img.shields.io/badge/-Nodejs-43853?logo=Node.js&logoColor=white"></a>
 <img src="https://img.shields.io/badge/-repl.it-56676e?logo=repl.it&logoColor=white"></a>
