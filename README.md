@@ -1,5 +1,5 @@
 ## 💨 Hello, My Name Is JimmY
-
+#### Languages and Tools I can work with:
 <a><img src="https://img.shields.io/badge/-Nodejs-43853?logo=Node.js&logoColor=white"></a>
 <img src="https://img.shields.io/badge/-repl.it-56676e?logo=repl.it&logoColor=white"></a>
 <a href="https://github.com/TJimmY123">
