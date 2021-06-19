@@ -12,6 +12,10 @@
 
 <a><img src="https://img.shields.io/badge/-Nodejs-43853?logo=Node.js&logoColor=white"></a>
 <img src="https://img.shields.io/badge/-repl.it-56676e?logo=repl.it&logoColor=white"></a>
+</a>
+<a href="https://dev.to/jimmy123" target="_blank">
+<a href="https://discord.com/users/479183494958940161" target="_blank">
+</a> 
 
 
 ### ☉ My Profile:
@@ -28,7 +32,4 @@
 ### ● My bot:
 [![Discord Bots](https://discordbotlist.com/bots/jimmusic)](https://discordbotlist.com/bots/jimmusic)
 
-</a>
-<a href="https://dev.to/jimmy123" target="_blank">
-<a href="https://discord.com/users/479183494958940161" target="_blank">
-</a> 
+
