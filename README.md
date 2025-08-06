@@ -1,5 +1,5 @@
 ## 💨 Hello, My Name Is JimmY
-- 📞 You can contact me **[Discord](https://discord.com/users/479183494958940161)**
+- 📞 You can contact me **[Discord](https://discord.com/users/780073128360542238)**
 
 <a href="https://github.com/TJimmY123">
   <img src="https://img.shields.io/github/followers/TJimmY123">
