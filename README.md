@@ -15,7 +15,7 @@
 
 
 ### ☉ My Profile:
-![Discord](https://discord.c99.nl/widget/theme-3/479183494958940161.png)
+![Discord](https://discord.c99.nl/widget/theme-3/780073128360542238.png)
 ### ☉ My stats:
 [![TJimmY123's GitHub stats](https://github-readme-stats.vercel.app/api?username=TJimmY123&show_icons=true&theme=tokyonight)](https://github.com/TJimmY123?tab=repositories)
 
