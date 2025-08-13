@@ -23,7 +23,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TJimmY123&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### ☉ My discord:
-[![Discord Banner 4](https://discordapp.com/api/guilds/838853179131166721/widget.png?style=banner4)](https://discord.gg/EBZzFavm)
+[![Discord Banner 4](https://discordapp.com/api/guilds/838853179131166721/widget.png?style=banner4)](https://discord.gg/Ad9VGVyRxR)
 
 ### ● My bot:
 [![Discord Bots](https://discordbotlist.com/bots/jimmusic)](https://discordbotlist.com/bots/jimmusic)
